@@ -25,7 +25,7 @@
                     <li class="nav-item"><a class="nav-link" href="/pilih-obat">Non Racikan Obat</a></li>
                     <li class="nav-item"><a class="nav-link" href="/list_obat">List Obat</a></li>
                     <li class="nav-item"><a class="nav-link" href="/signa">Signa</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/tentang">Tentang</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link" href="/tentang">Tentang</a></li> -->
                 </ul>
             </div>
         </div>
